@@ -52,7 +52,7 @@
                             <img src="images/blogs/blog2.webp" alt="" class="img-fluid">
                         </div>
                         <h4>Tips for Maintaining and Caring for Your Wood Furniture</h4>
-                        <h6>February 18, 2020 <span><a href="">Interior</a></span></h6>
+                        <h6>March 29, 2023 <span><a href="">Office Interior</a></span></h6>
                         <p>Wood furniture brings warmth and beauty to any home, but it requires proper care to ensure its longevity. This blog provides valuable tips on how to maintain and care for your wood furniture, helping you preserve its natural beauty for years to come.
 
 

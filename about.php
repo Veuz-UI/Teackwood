@@ -25,15 +25,13 @@
             </div>
         </div>
     </div>
-
-
     <!-- Preloader -->
 
     <?php include("header.php")?>
     <section class="inner-banner d-flex align-items-center">
         <div class="container">
             <div class="inner-banner-contents">
-                <h2>About Teackwood</h2>
+                <h2>About Teckwood</h2>
                 <ul class="brud-crumps">
                     <li><a href="index.php">Home</a></li>&ensp;<span>/</span>&ensp;
                     <li>About us</li>
@@ -143,7 +141,7 @@
 
                 <div class="blog-head">
                     <h3>
-                        Management + Team
+                        Our Team
                     </h3>
                 </div>
 
@@ -170,7 +168,7 @@
                     <div class="item" data-aos="fade-up" data-aos-duration="700">
                         <div class="single-team">
                             <div class="img-area">
-                                <img src="images/team/team2.webp" class="img-responsive" alt="">
+                                <img src="images/team/team2.png" class="img-responsive" alt="">
                                 <div class="social">
                                     <ul class="list-inline">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -181,15 +179,15 @@
                                 </div>
                             </div>
                             <div class="img-text">
-                                <h4>Dileep</h4>
-                                <h5>Commercial Director </h5>
+                                <h4>Ibnu Mashhood KT</h4>
+                                <h5>HR & Administration Manager</h5>
                             </div>
                         </div>
                     </div>
                     <div class="item" data-aos="fade-up" data-aos-duration="700">
                         <div class="single-team">
                             <div class="img-area">
-                                <img src="images/team/team3.webp" class="img-responsive" alt="">
+                                <img src="images/team/team3.png" class="img-responsive" alt="">
                                 <div class="social">
                                     <ul class="list-inline">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -200,30 +198,12 @@
                                 </div>
                             </div>
                             <div class="img-text">
-                                <h4>Sakkeer</h4>
-                                <h5>Operations Director</h5>
+                                <h4>Anup Madhavan</h4>
+                                <h5>Sales Manager</h5>
                             </div>
                         </div>
                     </div>
-                    <div class="item" data-aos="fade-up" data-aos-duration="700">
-                        <div class="single-team">
-                            <div class="img-area">
-                                <img src="images/team/team4.webp" class="img-responsive" alt="">
-                                <div class="social">
-                                    <ul class="list-inline">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="img-text">
-                                <h4>Sunena Kahabudheen</h4>
-                                <h5>HR Executive</h5>
-                            </div>
-                        </div>
-                    </div>
+
                     <div class="item" data-aos="fade-up" data-aos-duration="700">
                         <div class="single-team">
                             <div class="img-area">
@@ -250,22 +230,47 @@
         </div>
     </section>
 
-    <!-- <section class="space-section-about">
+
+
+
+    <section class="space-section-about2">
         <div class="container">
             <div class="commen-head" style="text-align:center">
                 <h3>
-                    Facilities
+                    Our Groups
                 </h3>
-                <p>TSS Fitout Interiors is a venture where exceptional fit out and interior services are <br>provided with creative and functional spaces.</p>
             </div>
+
             <div class="fitout-box">
                 <div class="row d-flex align-items-center gx-5">
+
+                    <div class="col-lg-7" data-aos="fade-right">
+                        <!-- <h5>About Teckwood Crafts Pvt Ltd</h5> -->
+                        <h3>TSS Advertising & Marcom, GCC</h3>
+                        <p>TSS Advertising Company was established in the year 2008 with a comprehensive and extensive vision to cater to the needs of the advertising industry in the Middle East. TSS Advertising provides services like Marketing Communications,
+                            Event Management, Printing Services, Exhibition Booth Fabrication, Mall Activations, Technology Solutions, etc.
+
+                        </p>
+                        <p>Currently, TSS operates in all GCC Countries. TSS Advertising has full-fledged production facilities in Jeddah, Riyadh, and Dammam in the Kingdom of Saudi and Dubai in UAE. TSS is equipped with the latest printing and fabrication
+                            facilities.
+
+                        </p>
+                    </div>
+                    <div class="col-lg-5" data-aos="fade-left">
+                        <img src="images/fitout-img3.jpg" class="img-fluid">
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="fitout-box2">
+                <div class="row d-flex align-items-center gx-5">
                     <div class="col-lg-5" data-aos="fade-right">
-                        <img src="images/fitout-img.webp" class="img-fluid">
+                        <img src="images/fitout-img.jpg" class="img-fluid">
 
                     </div>
                     <div class="col-lg-7" data-aos="fade-left">
-                        <h5>About Teckwood Crafts Pvt Ltd</h5>
+                        <!-- <h5>About Teckwood Crafts Pvt Ltd</h5> -->
                         <h3>TSS Fitout Interiors, UAE</h3>
                         <p>TSS Fitout Interiors is a venture where exceptional fit out and interior services are provided with creative and functional spaces. Fitout creates stunning interiors which revitalize a unique style, based on client-centric approach,
                             ensuring pertinent expertise with integrity and transparency. With commitment to bespoke solutions and empowering customers, raising the standard of luxury interiors in the Middle East for the past years. Specialized in collaboration
@@ -279,46 +284,30 @@
                 <div class="row d-flex align-items-center gx-5">
 
                     <div class="col-lg-7 order-md-1 order-2" data-aos="fade-right">
-                        <h5>About Teckwood Crafts Pvt Ltd</h5>
+                        <!-- <h5>About Teckwood Crafts Pvt Ltd</h5> -->
                         <h3>Teckfore Interiors Pvt Ltd</h3>
                         <p>Teckfore Interiors & Exteriors is a reputable venture dedicated to turning design dreams into actualization located in Bangalore, India. They collaborate closely with clients, architects, and builders to ensure effective infrastructure.
                             With their technical expertise, they monitor the implementation of the design and carry out projects professionally and in line with global standards. Teckfore brings creativity and excellence to every aspect and excelled in
                             delivering captivating and functional spaces.</p>
                     </div>
                     <div class="col-lg-5 order-md-1 order-1" data-aos="fade-left">
-                        <img src="images/fitout-img2.webp" class="img-fluid order-sm-1">
+                        <img src="images/fitout-img2.jpg" class="img-fluid order-sm-1">
 
                     </div>
                 </div>
             </div>
 
-            <div class="fitout-box2">
-                <div class="row d-flex align-items-center gx-5">
-                    <div class="col-lg-5" data-aos="fade-right">
-                        <img src="images/fitout-img3.webp" class="img-fluid">
 
-                    </div>
-                    <div class="col-lg-7" data-aos="fade-left">
-                        <h5>About Teckwood Crafts Pvt Ltd</h5>
-                        <h3>TSS Advertising & Marcom, GCC</h3>
-                        <p>TTSS Advertising Company was established in the year 2008 with a comprehensive and extensive vision to cater to the needs of the advertising industry in the Middle East. TSS Advertising provides services like Marketing Communications,
-                            Event Management, Printing Services, Exhibition Booth Fabrication, Mall Activations, Technology Solutions, etc.
-
-                        </p>
-                        <p>Currently, TSS operates in all GCC Countries. TSS Advertising has full-fledged production faculties in Jeddah, Riyadh, and Dammam in the Kingdom of Saudi and Dubai in UAE. TSS is equipped with the latest printing and fabrication
-                            facilities.
-
-                        </p>
-                    </div>
-
-                </div>
-            </div>
         </div>
-    </section> -->
+    </section>
 
 
 
-
+    <section class="space-section-about4">
+        <div class="paralax-img2 d-flex align-items-center justify-content-center">
+            <h2 data-aos="zoom-in" data-aos-duration="1000" class="aos-init">Upgrade your SPACE with us </h2>
+        </div>
+    </section>
 
 
 
@@ -413,11 +402,7 @@
         </div>
     </section>
 
-    <section class="space-section-about4">
-        <div class="paralax-img2 d-flex align-items-center justify-content-center">
-            <h2 data-aos="zoom-in" data-aos-duration="1000" class="aos-init">Upgrade your SPACE with us </h2>
-        </div>
-    </section>
+
 
 
     <section class="space-section-about4 sm-padding-2">

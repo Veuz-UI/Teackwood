@@ -52,7 +52,7 @@
                             <img src="images/blogs/blog3.webp" alt="" class="img-fluid">
                         </div>
                         <h4>The Timeless Beauty of Solid Wood Furniture: Why It's Worth the Investment</h4>
-                        <h6>February 18, 2020 <span><a href="">Interior</a></span></h6>
+                        <h6>March 25, 2023 <span><a href="">Home Interior</a></span></h6>
                         <p>Solid wood furniture possesses a timeless charm and enduring appeal that makes it a worthwhile investment for any home. In this blog, we explore the reasons behind its worth, emphasizing its natural aesthetics, durability, and versatility.
 
                         </p>

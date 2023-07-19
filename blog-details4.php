@@ -52,7 +52,7 @@
                             <img src="images/banner1.webp" alt="" class="img-fluid">
                         </div>
                         <h4>The Art of Wood Carving: Exquisite Details in Furniture Design</h4>
-                        <h6>February 18, 2020 <span><a href="">Interior</a></span></h6>
+                        <h6>April 26, 2023 <span><a href="">Residence</a></span></h6>
                         <p>Wood carving is an ancient art form that has adorned furniture with intricate and exquisite details for centuries. This blog celebrates the art of wood carving, highlighting its craftsmanship, aesthetic appeal, historical significance, versatility, and its ability to elevate furniture design to new heights.
 
 

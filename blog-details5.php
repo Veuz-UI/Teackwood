@@ -52,7 +52,7 @@
                             <img src="images/about-img.webp" alt="" class="img-fluid">
                         </div>
                         <h4>Wood Furniture for Kids: Durability and Safety Combined</h4>
-                        <h6>February 18, 2020 <span><a href="">Interior</a></span></h6>
+                        <h6>April 22, 2023 <span><a href="">Office Space</a></span></h6>
                         <p>When it comes to furnishing a child's room, durability and safety are paramount. Wood furniture offers a perfect combination of both, making it an ideal choice for kids' spaces. This blog explores the benefits of wood furniture for kids, focusing on its durability, safety features, versatility, eco-friendliness, and tips for maintenance.
 
 

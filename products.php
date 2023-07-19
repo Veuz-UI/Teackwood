@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <link href="images/fav.jpg" rel="icon" />
+    <link href="images/fav.webp" rel="icon" />
 </head>
 
 <body>
@@ -52,7 +52,7 @@
                         <div class="product-box-col">
 
                             <div class="product-img">
-                                <img src="images/product/product1.jpg" class="img-fluid">
+                                <img src="images/product/product1.webp" class="img-fluid">
                             </div>
                             <div class="product-info">
                                 <h2>Truman Solid Wood Study Table In Teak Finish</h2>
@@ -94,7 +94,7 @@
                         <div class="product-box-col">
 
                             <div class="product-img">
-                                <img src="images/product/product4.jpg" class="img-fluid">
+                                <img src="images/product/product4.webp" class="img-fluid">
                             </div>
                             <div class="product-info">
                                 <h2>Truman Solid Wood Study Table In Teak Finish</h2>
@@ -108,7 +108,7 @@
                         <div class="product-box-col">
 
                             <div class="product-img">
-                                <img src="images/product/product5.jpg" class="img-fluid">
+                                <img src="images/product/product5.webp" class="img-fluid">
                             </div>
                             <div class="product-info">
                                 <h2>Truman Solid Wood Study Table In Teak Finish</h2>
@@ -122,7 +122,7 @@
                         <div class="product-box-col">
 
                             <div class="product-img">
-                                <img src="images/product/product6.jpg" class="img-fluid">
+                                <img src="images/product/product6.webp" class="img-fluid">
                             </div>
                             <div class="product-info">
                                 <h2>Truman Solid Wood Study Table In Teak Finish</h2>
@@ -164,7 +164,7 @@
                         <div class="product-box-col">
 
                             <div class="product-img">
-                                <img src="images/product/product9.jpg" class="img-fluid">
+                                <img src="images/product/product9.webp" class="img-fluid">
                             </div>
                             <div class="product-info">
                                 <h2>Truman Solid Wood Study Table In Teak Finish</h2>
@@ -178,7 +178,7 @@
                         <div class="product-box-col">
 
                             <div class="product-img">
-                                <img src="images/product/product10.jpg" class="img-fluid">
+                                <img src="images/product/product10.webp" class="img-fluid">
                             </div>
                             <div class="product-info">
                                 <h2>Truman Solid Wood Study Table In Teak Finish</h2>
@@ -192,7 +192,7 @@
                         <div class="product-box-col">
 
                             <div class="product-img">
-                                <img src="images/product/product12.jpg" class="img-fluid">
+                                <img src="images/product/product12.webp" class="img-fluid">
                             </div>
                             <div class="product-info">
                                 <h2>Truman Solid Wood Study Table In Teak Finish</h2>
@@ -206,7 +206,7 @@
                         <div class="product-box-col">
 
                             <div class="product-img">
-                                <img src="images/product/product13.jpg" class="img-fluid">
+                                <img src="images/product/product13.webp" class="img-fluid">
                             </div>
                             <div class="product-info">
                                 <h2>Truman Solid Wood Study Table In Teak Finish</h2>

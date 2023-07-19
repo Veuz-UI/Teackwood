@@ -3,6 +3,8 @@
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+        <a class="navbar-brand order-first order-md-0 mx-0 margin-header" href="#"><img src="images/logo.webp" img-fluid></a>
+
         <div class="collapse navbar-collapse w-100" id="navbarSupportedContent">
             <ul class="nav navbar-nav w-100">
                 <li class="nav-item active">
@@ -35,7 +37,7 @@
                 </li>
             </ul>
         </div>
-        <a class="navbar-brand order-first order-md-0 mx-0" href="#"><img src="images/logo.webp" img-fluid></a>
+
         <div class="collapse navbar-collapse w-100" id="navbarSupportedContent">
             <ul class="nav navbar-nav ms-auto">
                 <div class="inputGroup">

@@ -41,7 +41,7 @@
             <div class="img-banner-width">
                 <img src="images/banner1.webp">
                 <div class="banner-info">
-                    <h1>Upgrade your space with us </h1>
+                    <h1>Upgrade your SPACE with us </h1>
                     <p>Home is where one belongs, the shelter in which livelihood is valued, beautiful, and sustainable.</p>
                 </div>
 
@@ -52,7 +52,7 @@
             <div class="img-banner-width">
                 <img src="images/banner2.webp">
                 <div class="banner-info">
-                    <h1>Upgrade your space with us </h1>
+                    <h1>Upgrade your SPACE with us </h1>
                     <p>Home is where one belongs, the shelter in which livelihood is valued, beautiful, and sustainable.</p>
                 </div>
             </div>
@@ -67,7 +67,7 @@
                     <h2 class="head-label">Newly added products</h2>
                 </div>
                 <div class="col-lg-6">
-                    <a href="#">
+                    <a href="products.php">
                         <h2 class="view-more">View all products
                             <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none">
                             <path d="M14.43 5.92993L20.5 11.9999L14.43 18.0699M3.5 11.9999H20.33" stroke="#737373" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
@@ -165,7 +165,7 @@
     <section class="space-section2 responsive-class-column">
         <div class="paralax-img d-flex align-items-center justify-content-center">
             <div class="container">
-                <h2 data-aos="zoom-in" data-aos-duration="1000">Upgrade your space with us</h2>
+                <h2 data-aos="zoom-in" data-aos-duration="1000">Upgrade your SPACE with us</h2>
             </div>
         </div>
     </section>
@@ -223,7 +223,7 @@
 
     <section class="space-section2">
         <div class="paralax-img2 d-flex align-items-center justify-content-center mobile-padd-col">
-            <h2 data-aos="zoom-in" data-aos-duration="1000">Upgrade your space with us</h2>
+            <h2 data-aos="zoom-in" data-aos-duration="1000">Upgrade your SPACE with us</h2>
         </div>
     </section>
 
@@ -237,7 +237,7 @@
                         <img src="images/testmonial.webp">
                         <p>I love the furniture I bought from Teckwood; it looks beautiful in my home. Thank you for creating such high-quality pieces</p>
                         <h3>Sana</h3>
-                        <h4>NRI Bussinessman</h4>
+                        <h4>Product Director, Wood Interiors</h4>
                     </div>
                 </div>
                 <div class="item" data-aos="fade-up">
@@ -245,7 +245,7 @@
                         <img src="images/testmonial.webp">
                         <p>The staff here were so friendly and helpful. They guided me through the furniture selection process and made sure I found the perfect teak wood bedroom set. I am happy with their classic touch</p>
                         <h3>Saabu </h3>
-                        <h4>NRI Bussinessman</h4>
+                        <h4>Co-Founder, sifon Technologies</h4>
                     </div>
                 </div>
                 <div class="item" data-aos="fade-up">
@@ -260,8 +260,8 @@
                     <div class="testimonial-box">
                         <img src="images/testmonial.webp">
                         <p>The design and craftsmanship are top-notch. I got customized swing chairs for my villa</p>
-                        <h3>Thomas</h3>
-                        <h4>NRI Bussinessman</h4>
+                        <h3>Stefen</h3>
+                        <h4>Project Specialist, Sanbox </h4>
                     </div>
                 </div>
             </div>
@@ -307,8 +307,8 @@
                         </div>
                         <div class="blog-bg">
                             <div class="blog-dte d-flex align-items-center">
-                                <span class="badge">March 25, 2023</span>
-                                <p>Home Interior</p>
+                                <span class="badge">March 29, 2023</span>
+                                <p>Office Interior</p>
                             </div>
                             <h3>Tips for Maintaining and Caring for Your Wood Furniture</h3>
                             <h5>Wood furniture brings warmth and beauty to any home, but it requires proper care to ensure its longevity. This blog provides valuable tips on how to maintain...</h5>
@@ -329,8 +329,8 @@
                         </div>
                         <div class="blog-bg">
                             <div class="blog-dte d-flex align-items-center">
-                                <span class="badge">March 25, 2023</span>
-                                <p>Home Interior</p>
+                                <span class="badge">April 19, 2023</span>
+                                <p>Commercial</p>
                             </div>
                             <h3>Enhancing Your Outdoor Living Space with Durable and Stylish Wood Patio Furniture</h3>
                             <h5>Creating a welcoming and inviting outdoor living space is made effortless with durable and stylish wood patio furniture. This blog explores the benefits...</h5>
@@ -345,9 +345,10 @@
                     </div>
                 </div>
                 <div class="col-lg-12 d-flex justify-content-center">
-                    <button class="button-about margin-blog-btn">
+                    <a href="blog.php"><button class="button-about margin-blog-btn">
                         <span>View all blogs</span>
                       </button>
+                      </a>
                 </div>
             </div>
 

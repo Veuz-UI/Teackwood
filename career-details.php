@@ -16,8 +16,8 @@
 
 <body>
 
- <!-- Preloader -->
- <div class="loader-mask">
+    <!-- Preloader -->
+    <div class="loader-mask">
         <div class="spinnerContainer">
             <img src="images/fav.webp" class="img-fluid logo-rotate-center">
             <div class="rotate-preloader">
@@ -81,13 +81,13 @@
                             <div class="col-lg-6 d-flex flex-column flex-md-row">
                                 <div class="mt-15">
                                     <h6>
-                                    Furniture Designer
+                                        Furniture Designer
                                     </h6>
                                 </div>
 
                             </div>
 
-                            <div class="col-lg-6">
+                            <!-- <div class="col-lg-6">
                                 <div class="mt-15">
                                     <div class="d-flex align-items-center flex-column flex-md-row">
                                         <img src="images/career/salary.svg" alt="" class="img-fluid">
@@ -98,11 +98,11 @@
                             <div class="col-lg-6 d-flex flex-column flex-md-row">
                                 <div class="mt-15">
                                     <h6>
-                                        SAR 500
+                                        25000
                                     </h6>
                                 </div>
 
-                            </div>
+                            </div> -->
                             <div class="col-lg-6">
                                 <div class="mt-15">
                                     <div class="d-flex align-items-center flex-column flex-md-row">
@@ -241,6 +241,11 @@
 
                                 </div>
                             </div>
+                        </div>
+                        <div class="col-lg-12 text-center">
+                            <button class="button-about margin-blog-btn">
+                                <span>Submit</span>
+                              </button>
                         </div>
                     </div>
 

@@ -82,6 +82,7 @@
                                 Phone
                             </h5>
                             <p><a href="tel:+917034318123">+91 70343 18123</a></p>
+                            <p class="contact-number-place"><a href="tel:+914931209000">+91 49312 09000</a></p>
                         </div>
 
                     </div>
@@ -96,7 +97,8 @@
                             <h5>
                                 Address
                             </h5>
-                            <p class="address-text">Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, KSA-560016
+                            <p class="address-text">Teckwood Crafts Private Limited,
+Thottekkad Amarambalam Po, Pookkottupadam, Malappuram, Kerala, India, 679332
                             </p>
                         </div>
 

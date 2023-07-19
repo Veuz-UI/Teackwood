@@ -74,11 +74,11 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-6 d-flex justify-content-end flex-column flex-md-row">
+                            <!-- <div class="col-lg-6 d-flex justify-content-end flex-column flex-md-row">
                                 <div class="career-brand">
-                                    <h5><span>SAR 500</span>/Month</h5>
+                                    <h5><span>20000</span>/Month</h5>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -99,8 +99,8 @@
                         </div>
 
                         <div class="d-flex career-btns">
-                            <button class="career-btn" type="button">Interior</button>
-                            <button class="career-btn" type="button">Exterior</button>
+                            <button class="career-btn" type="button">Commercial</button>
+                            <button class="career-btn" type="button">Office Space</button>
                         </div>
                         <div class="row d-flex align-items-center">
                             <div class="col-lg-6">
@@ -109,231 +109,16 @@
                                     <h6><span class="career-box-icons"><i class="fas fa-map-marker-alt"></i></span>Nilambur</h6>
                                 </div>
                             </div>
-
+                            <!-- 
                             <div class="col-lg-6 d-flex  justify-content-end flex-column flex-md-row">
                                 <div class="career-brand">
-                                    <h5><span>SAR 500</span>/Month</h5>
+                                    <h5><span>25000</span>/Month</h5>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3" data-aos="fade-up" data-aos-duration="500">
-                    <div class="career-box">
-                        <img src="images/career/full-stack.webp" alt="" class="img-fluid">
-                        <h3>
-                            <a href="career-details.php">Furniture Designer</a>
-                        </h3>
-                        <div class="d-flex career-info">
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-briefcase"></i></span>Full Time
-                            </h6>
 
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-clock"></i></span>Posted 4 months ago
-                            </h6>
-                        </div>
-
-                        <div class="d-flex career-btns">
-                            <button class="career-btn" type="button">Interior</button>
-                            <button class="career-btn" type="button">Exterior</button>
-                        </div>
-                        <div class="row d-flex align-items-center">
-                            <div class="col-lg-6">
-                                <div class="career-brand">
-                                    <h4>Location</h4>
-                                    <h6><span class="career-box-icons"><i class="fas fa-map-marker-alt"></i></span>Nilambur</h6>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 d-flex justify-content-end flex-column flex-md-row">
-                                <div class="career-brand">
-                                    <h5><span>SAR 500</span>/Month</h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3" data-aos="fade-up" data-aos-duration="1000">
-                    <div class="career-box">
-                        <img src="images/career/marketing.webp" alt="" class="img-fluid">
-                        <h3>
-                            <a href="career-details.php">Operations Head</a>
-                        </h3>
-                        <div class="d-flex career-info">
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-briefcase"></i></span>Full Time
-                            </h6>
-
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-clock"></i></span>Posted 4 months ago
-                            </h6>
-                        </div>
-
-                        <div class="d-flex career-btns">
-                            <button class="career-btn" type="button">Interior</button>
-                            <button class="career-btn" type="button">Exterior</button>
-                        </div>
-                        <div class="row d-flex align-items-center">
-                            <div class="col-lg-6">
-                                <div class="career-brand">
-                                    <h4>Location</h4>
-                                    <h6><span class="career-box-icons"><i class="fas fa-map-marker-alt"></i></span>Nilambur</h6>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 d-flex  justify-content-end flex-column flex-md-row">
-                                <div class="career-brand">
-                                    <h5><span>SAR 500</span>/Month</h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3" data-aos="fade-up" data-aos-duration="500">
-                    <div class="career-box">
-                        <img src="images/career/full-stack.webp" alt="" class="img-fluid">
-                        <h3>
-                            <a href="career-details.php">Furniture Designer</a>
-                        </h3>
-                        <div class="d-flex career-info">
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-briefcase"></i></span>Full Time
-                            </h6>
-
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-clock"></i></span>Posted 4 months ago
-                            </h6>
-                        </div>
-
-                        <div class="d-flex career-btns">
-                            <button class="career-btn" type="button">Interior</button>
-                            <button class="career-btn" type="button">Exterior</button>
-                        </div>
-                        <div class="row d-flex align-items-center">
-                            <div class="col-lg-6">
-                                <div class="career-brand">
-                                    <h4>Location</h4>
-                                    <h6><span class="career-box-icons"><i class="fas fa-map-marker-alt"></i></span>Nilambur</h6>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 d-flex justify-content-end flex-column flex-md-row">
-                                <div class="career-brand">
-                                    <h5><span>SAR 500</span>/Month</h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3" data-aos="fade-up" data-aos-duration="1000">
-                    <div class="career-box">
-                        <img src="images/career/marketing.webp" alt="" class="img-fluid">
-                        <h3>
-                            <a href="career-details.php">Operations Head</a>
-                        </h3>
-                        <div class="d-flex career-info">
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-briefcase"></i></span>Full Time
-                            </h6>
-
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-clock"></i></span>Posted 4 months ago
-                            </h6>
-                        </div>
-
-                        <div class="d-flex career-btns">
-                            <button class="career-btn" type="button">Interior</button>
-                            <button class="career-btn" type="button">Exterior</button>
-                        </div>
-                        <div class="row d-flex align-items-center">
-                            <div class="col-lg-6">
-                                <div class="career-brand">
-                                    <h4>Location</h4>
-                                    <h6><span class="career-box-icons"><i class="fas fa-map-marker-alt"></i></span>Nilambur</h6>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 d-flex  justify-content-end flex-column flex-md-row">
-                                <div class="career-brand">
-                                    <h5><span>SAR 500</span>/Month</h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3" data-aos="fade-up" data-aos-duration="500">
-                    <div class="career-box">
-                        <img src="images/career/full-stack.webp" alt="" class="img-fluid">
-                        <h3>
-                            <a href="career-details.php">Furniture Designer</a>
-                        </h3>
-                        <div class="d-flex career-info">
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-briefcase"></i></span>Full Time
-                            </h6>
-
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-clock"></i></span>Posted 4 months ago
-                            </h6>
-                        </div>
-
-                        <div class="d-flex career-btns">
-                            <button class="career-btn" type="button">Interior</button>
-                            <button class="career-btn" type="button">Exterior</button>
-                        </div>
-                        <div class="row d-flex align-items-center">
-                            <div class="col-lg-6">
-                                <div class="career-brand">
-                                    <h4>Location</h4>
-                                    <h6><span class="career-box-icons"><i class="fas fa-map-marker-alt"></i></span>Nilambur</h6>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 d-flex justify-content-end flex-column flex-md-row">
-                                <div class="career-brand">
-                                    <h5><span>SAR 500</span>/Month</h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3" data-aos="fade-up" data-aos-duration="1000">
-                    <div class="career-box">
-                        <img src="images/career/marketing.webp" alt="" class="img-fluid">
-                        <h3>
-                            <a href="career-details.php">Operations Head</a>
-                        </h3>
-                        <div class="d-flex career-info">
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-briefcase"></i></span>Full Time
-                            </h6>
-
-                            <h6>
-                                <span class="career-box-icons"><i class="fas fa-clock"></i></span>Posted 4 months ago
-                            </h6>
-                        </div>
-
-                        <div class="d-flex career-btns">
-                            <button class="career-btn" type="button">Interior</button>
-                            <button class="career-btn" type="button">Exterior</button>
-                        </div>
-                        <div class="row d-flex align-items-center">
-                            <div class="col-lg-6">
-                                <div class="career-brand">
-                                    <h4>Location</h4>
-                                    <h6><span class="career-box-icons"><i class="fas fa-map-marker-alt"></i></span>Nilambur</h6>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 d-flex  justify-content-end flex-column flex-md-row">
-                                <div class="career-brand">
-                                    <h5><span>SAR 500</span>/Month</h5>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
 
             </div>

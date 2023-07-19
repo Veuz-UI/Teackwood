@@ -45,7 +45,7 @@
     <section class="space-section3">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4" data-aos="fade-up">
+            <div class="col-lg-4" data-aos="fade-up">
                     <div class="hover-up">
                         <div class="img-blog">
                             <img src="images/blogs/blog1.webp" class="img-fluid">
@@ -74,8 +74,8 @@
                         </div>
                         <div class="blog-bg">
                             <div class="blog-dte d-flex align-items-center">
-                                <span class="badge">March 25, 2023</span>
-                                <p>Home Interior</p>
+                                <span class="badge">March 29, 2023</span>
+                                <p>Office Interior</p>
                             </div>
                             <h3>Tips for Maintaining and Caring for Your Wood Furniture</h3>
                             <h5>Wood furniture brings warmth and beauty to any home, but it requires proper care to ensure its longevity. This blog provides valuable tips on how to maintain...</h5>
@@ -96,12 +96,12 @@
                         </div>
                         <div class="blog-bg">
                             <div class="blog-dte d-flex align-items-center">
-                                <span class="badge">March 25, 2023</span>
-                                <p>Home Interior</p>
+                                <span class="badge">April 19, 2023</span>
+                                <p>Commercial</p>
                             </div>
                             <h3>Enhancing Your Outdoor Living Space with Durable and Stylish Wood Patio Furniture</h3>
                             <h5>Creating a welcoming and inviting outdoor living space is made effortless with durable and stylish wood patio furniture. This blog explores the benefits...</h5>
-                            <a href="blog-details.php" style="text-decoration: none !important;">
+                            <a href="blog-details3.php" style="text-decoration: none !important;">
                                 <h2 class="view-more-blog">Read More
                                     <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none">
                                 <path d="M14.43 5.92993L20.5 11.9999L14.43 18.0699M3.5 11.9999H20.33" stroke="#737373" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -111,6 +111,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-lg-4" data-aos="fade-up">
                     <div class="hover-up">
                         <div class="img-blog">
@@ -118,8 +119,8 @@
                         </div>
                         <div class="blog-bg">
                             <div class="blog-dte d-flex align-items-center">
-                                <span class="badge">March 25, 2023</span>
-                                <p>Home Interior</p>
+                                <span class="badge">April 26, 2023</span>
+                                <p>Residence</p>
                             </div>
                             <h3>The Art of Wood Carving: Exquisite Details in Furniture Design</h3>
                             <h5>Wood carving is an ancient art form that has adorned furniture with intricate and exquisite details for centuries. This blog celebrates the art of wood carving...</h5>
@@ -140,8 +141,8 @@
                         </div>
                         <div class="blog-bg">
                             <div class="blog-dte d-flex align-items-center">
-                                <span class="badge">March 25, 2023</span>
-                                <p>Home Interior</p>
+                                <span class="badge">April 22, 2023</span>
+                                <p>Office Space</p>
                             </div>
                             <h3>Wood Furniture for Kids: Durability and Safety Combined</h3>
                             <h5>When it comes to furnishing a child's room, durability and safety are paramount. Wood furniture offers a perfect combination of both, making it an choice...</h5>

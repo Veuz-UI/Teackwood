@@ -68,6 +68,10 @@
                         <img src="images/call.webp " alt="">
                         <h3><a href="tel:+917034318123">+91 70343 18123</a></h3>
                     </div>
+                    <div class=" d-flex align-items-center phone-footer pt-2">
+                        <img src="images/call.webp " alt="">
+                        <h3><a href="tel:+914931209000">+91 49312 09000</a></h3>
+                    </div>
                     <hr class="footer-beteeen-line">
                     <div class="d-flex align-items-center email-footer">
                         <img src="images/mail.webp " alt="">
@@ -88,7 +92,7 @@
                 </ul>
             </div>
             <div class="col-lg-6 order-2 ">
-                <p class="copy-text">&COPY;Teckwood. all rights reserved</p>
+                <p class="copy-text">&COPY;2023 Teckwood. all rights reserved</p>
             </div>
 
         </div>

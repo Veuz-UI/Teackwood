@@ -52,7 +52,7 @@
                             <img src="images/blogs/blog3.webp" alt="" class="img-fluid">
                         </div>
                         <h4>Enhancing Your Outdoor Living Space with Durable and Stylish Wood Patio Furniture</h4>
-                        <h6>February 18, 2020 <span><a href="">Interior</a></span></h6>
+                        <h6>April 19, 2023 <span><a href="">Commercial</a></span></h6>
                         <p>Creating a welcoming and inviting outdoor living space is made effortless with durable and stylish wood patio furniture. This blog explores the benefits of incorporating wood furniture into your outdoor setup, highlighting its durability, natural aesthetics, versatility, and tips for maintenance.
 
 
