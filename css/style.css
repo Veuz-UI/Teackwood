@@ -393,7 +393,7 @@ figure.effect-lily img {
     -webkit-transform: translate3d(-40px, 0, 0);
     transform: translate3d(-40px, 0, 0);
     object-fit: cover;
-    height: 600px;
+    height: 470px;
 }
 
 figure.effect-lily figcaption {
@@ -3321,6 +3321,9 @@ img {
     .main-nav {
         padding: 0px 0px;
     }
+    .col-responsive {
+        flex: 0 0 100% !important
+    }
 }
 
 
@@ -3352,4 +3355,30 @@ img {
     .product-img img {
         height: 388px;
     }
+}
+
+.grid-row-sectionn {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+}
+
+.width-item1 {
+    grid-column: 1 / span 1;
+}
+
+.width-item2 {
+    grid-column: 2 / span 1;
+}
+
+.width-item3 {
+    grid-column: 3 / span 1;
+}
+
+.width-item4 {
+    grid-column: 4 / span 1;
+}
+
+.width-item5 {
+    grid-column: 5 / span 1;
 }

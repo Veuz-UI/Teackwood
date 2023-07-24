@@ -76,57 +76,71 @@
                     </a>
                 </div>
             </div>
-            <div class="row g-2 pt-3">
-                <div class="col-lg-3" data-aos="fade-up">
+            <div class="row g-2 pt-3 grid-containe">
+                <div class="col col-responsive" data-aos="fade-up">
                     <div class="grid">
                         <figure class="effect-lily">
-                            <img src="images/products/product1.webp" alt="img12" />
+                            <img src="images/products/study-table.jpg" alt="img12" />
                             <figcaption>
                                 <div>
-                                    <h2>Living</h2>
-                                    <p><a href="#">View more</a></p>
+                                    <h2>Study Table</h2>
+                                    <p><a href="products.php">View more</a></p>
                                 </div>
 
                             </figcaption>
                         </figure>
                     </div>
                 </div>
-                <div class="col-lg-3" data-aos="fade-up">
+                <div class="col col-responsive" data-aos="fade-up">
                     <div class="grid">
                         <figure class="effect-lily">
-                            <img src="images/products/product2.webp" alt="img12" />
+                            <img src="images/products/teapoy.jpg" alt="img12" />
                             <figcaption>
                                 <div>
-                                    <h2>Dining</h2>
-                                    <p><a href="#">View more</a></p>
+                                    <h2>Teapoy</h2>
+                                    <p><a href="products.php">View more</a></p>
                                 </div>
 
                             </figcaption>
                         </figure>
                     </div>
                 </div>
-                <div class="col-lg-3" data-aos="fade-up">
+                <div class="col col-responsive" data-aos="fade-up">
                     <div class="grid">
                         <figure class="effect-lily">
-                            <img src="images/products/product3.webp" alt="img12" />
+                            <img src="images/products/storage.jpg" alt="img12" />
                             <figcaption>
                                 <div>
-                                    <h2>Bedroom</h2>
-                                    <p><a href="#">View more</a></p>
+                                    <h2>Storage and Decor</h2>
+                                    <p><a href="products.php">View more</a></p>
                                 </div>
 
                             </figcaption>
                         </figure>
                     </div>
                 </div>
-                <div class="col-lg-3" data-aos="fade-up">
+                <div class="col col-responsive" data-aos="fade-up">
                     <div class="grid">
                         <figure class="effect-lily">
-                            <img src="images/products/product4.webp" alt="img12" />
+                            <img src="images/products/chair.jpg" alt="img12" />
                             <figcaption>
                                 <div>
-                                    <h2>Office</h2>
-                                    <p><a href="#">View more</a></p>
+                                    <h2>Chair</h2>
+                                    <p><a href="products.php">View more</a></p>
+                                </div>
+
+                            </figcaption>
+                        </figure>
+                    </div>
+                </div>
+                <div class="col col-responsive" data-aos="fade-up">
+                    <div class="grid">
+                        <figure class="effect-lily">
+                            <img src="images/products/swing.jpg" alt="img12" />
+                            <figcaption>
+                                <div>
+                                    <h2>Swing</h2>
+                                    <p><a href="products.php">View more</a></p>
                                 </div>
 
                             </figcaption>
